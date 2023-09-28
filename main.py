@@ -17,7 +17,7 @@ uid = os.environ['PGUID']
 # sql db details
 dr = "SQL Server Native Client 11.0"
 srvr = "localhost"
-db = "AdventureWorksDW2019"
+db = "Test"
 
 
 # extract data from sql server
